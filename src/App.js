@@ -21,7 +21,7 @@ function Copyright() {
 
 export default function App() {
   return (
-    <Container maxWidth={false}>
+    <Container>
       <NavBar />
       <Box my={6}>
         <Typography variant="h3" component="h1" gutterBottom align="center">
